@@ -1,2 +1,2 @@
 # SnakeGame
-Simple Snake game with java swing and AWT
+Simple Snake game made with java swing and AWT
